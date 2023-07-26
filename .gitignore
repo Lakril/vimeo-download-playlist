@@ -1,6 +1,4 @@
 /videos
 *.mp4
 *.json
-*.tsv
-*.csv
 vimeo-audio-and-video copy.ipynb
